@@ -9,6 +9,7 @@
     <name>Typora</name>
   </developer>
   <description>
+    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Typora.**</p>
     <p>
       Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.
     </p>
