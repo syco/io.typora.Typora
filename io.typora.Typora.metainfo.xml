@@ -59,6 +59,16 @@
   </provides>
 
   <releases>
+    <release version="1.13.6" date="2026-07-14">
+      <description>
+        <p>
+          Fix export / print when using a different theme for export on macOS.
+          Add back some predefined macros for back compatibility.
+          Add option to use legacy inline parse rules for back compatibility.
+          Fix export / print regression on macOS 13, 14 and 15
+        </p>
+      </description>
+    </release>
     <release version="1.13.4" date="2026-04-15">
       <description>
         <p>
