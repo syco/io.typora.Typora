@@ -58,6 +58,39 @@
   </provides>
 
   <releases>
+    <release version="1.14.9" date="2026-08-29">
+      <description>
+        <p>
+          1.14.9
+            Fix version number in winget installer.
+            Fix mermaid rendering.
+
+          1.14.8
+            Fix a security vulnerability.
+            Fix toolbar cannot be opened in Windows ARM.
+
+          1.14.6
+            Detail
+            macOSdmg Windows (64bit)exe Windows (32bit)exe Windows (ARM)exe
+            Linux (64bit)deb Linux (64bit)tar Linux (ARM)deb Linux (ARM)tar
+            New
+              Add editor toolbar, you can enable it from menubar → View → Toolbar.
+              Add context menu to quickly change styles for macOS version.
+              Add option to show hidden files, all files, or follow custom glob to filter files in files sidebar.
+              Add keyboard navigation on file tree.
+            Fix
+              Bypass list rendering issues under macOS 27 beta. (It is a macOS bug)
+
+          1.13.8
+            Fix HTML / PDF export on macOS when contains special math code.
+
+          1.13.7
+            Fix file content live update on external changes sometime fail on macOS.
+            Fix img ignore custom height attribute.
+            Fix Typora keep rename file extension back to md after user change it.
+        </p>
+      </description>
+    </release>
     <release version="1.13.6" date="2026-07-14">
       <description>
         <p>
